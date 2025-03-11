@@ -35,7 +35,7 @@ export const DataProvider = ({ children }: DataProviderProps) => {
   const [languageItems, setLanguageItems] = useState<LanguageItems>(initialLanguageItems);
 
   useEffect(() => {
-    fetch('../public/db.json')
+    fetch('db.json')
       .then(response => response.json())
       .then(data => {
         console.log(data, language);
