@@ -1,5 +1,6 @@
 import { useDataContext } from "../DataContext";
 import { cn } from "../utils/cn";
+import { DataStructure } from "../interface"; 
 
 export default function LanguageSwitcher() {
   const { setLanguage, languages, language } = useDataContext();
@@ -19,7 +20,7 @@ export default function LanguageSwitcher() {
         <li
           key={lng}
           className={cl}
-          onClick={() => setLanguage(lng)}
+          onClick={() => setLanguage(lng as keyof DataStructure)}
         >
           {lng}
         </li>

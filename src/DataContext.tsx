@@ -1,17 +1,13 @@
 import { createContext, useState, useEffect, useContext, ReactNode } from 'react';
 import { LanguageItems, Item } from './interface';
 import initialLanguageItems from './initialLanguageItems';
+import { DataStructure } from './interface';
 
 const localization = 'en';
 
-interface DataStructure {
-  en: LanguageItems;
-  ru: LanguageItems;
-}
-
 interface DataContextType {
   languageItems: LanguageItems;
-  languages: string[];
+  languages:  string[];
   language: keyof DataStructure | null;
   setLanguage: (language: keyof DataStructure) => void;
   //setLanguage: React.Dispatch<React.SetStateAction<'en' | null>>;

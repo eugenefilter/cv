@@ -65,3 +65,8 @@ export interface ExperienceScale {
   month: number,
   totalMonth: number
 }
+
+export interface DataStructure {
+  en: LanguageItems;
+  ru: LanguageItems;
+}
