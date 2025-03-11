@@ -1,0 +1,230 @@
+{
+  "items": {
+    "en": {
+      "about": {
+        "title": "About me",
+        "text": "With a decade of professional experience, I specialize in crafting robust web applications using PHP, JavaScript, and Vue.js, consistently focusing on creating scalable and maintainable code. My career has been driven by my passion for optimizing web functionalities and enhancing user experiences, leading to significant improvements in application performance and user engagement for multiple high-profile clients. I have a proven track record in leading development teams through the full software lifecycle, ensuring projects meet demanding timelines while adhering to best practices in coding standards."
+      },
+      "links": {
+        "title": "Website & Social links",
+        "links": [
+          {
+            "title": "Linkedin",
+            "link": "https://www.linkedin.com/in/yevhen-oleinykov-1825982b6/",
+            "linkName": "linkedin.com/yevhen-oleinykov"
+          }
+        ]
+      },
+      "languages": {
+        "title": "languages",
+        "items": [
+          "English",
+          "Russian"
+        ]
+      },
+      "additional": {
+        "title": "Additional Details",
+        "text": ""
+      },
+      "workExperience": {
+        "title": "work experience",
+        "items": [
+          {
+            "organization": "GLOWPIXEL ltd",
+            "city": "New York",
+            "years": "2014 - 2015",
+            "description": "Senior Graphic Designer Customer-oriented Graphic Designer with strong history of leading high performance team to meet or exceed objectives. Dedicated and hardworking with internal drive to deliver excellence."
+          },
+          {
+            "organization": "LOREM IPSUM",
+            "city": "New York",
+            "years": "2014 - 2015",
+            "description": "Graphic Designer Customer-oriented Graphic Designer with strong history of leading high performance team to meet or exceed objectives. Dedicated and hardworking with internal drive to deliver excellence."
+          }
+        ]
+      },
+      "education": {
+        "title": "education",
+        "items": [
+          {
+            "organization": "GLOWPIXEL LTD",
+            "city": "New York",
+            "years": "2014 - 2015",
+            "description": "Senior Graphic Designer Customer-oriented Graphic Designer with strong history of leading high performance team to meet or exceed objectives. Dedicated and hardworking with internal drive to deliver excellence."
+          },
+          {
+            "organization": "LOREM IPSUM",
+            "city": "New York",
+            "years": "2014 - 2015",
+            "description": "Graphic Designer Customer-oriented Graphic Designer with strong history of leading high performance team to meet or exceed objectives. Dedicated and hardworking with internal drive to deliver excellence."
+          },
+          {
+            "organization": "PIXELATE AGENCY",
+            "city": "New Jersey",
+            "years": "2013 - 2014",
+            "description": "Graphic & Web Designer | Customer-oriented Graphic Designer with strong history of leading high performance team to meet or exceed objectives. Dedicated and hardworking with internal drive to deliver excellence."
+          }
+        ]
+      },
+      "skills": {
+        "title": "skills",
+        "items": [
+          {
+            "title": "PHP",
+            "since": 2016
+          },
+          {
+            "title": "Laravel",
+            "since": 2018
+          },
+          {
+            "title": "JavaScript",
+            "since": 2016
+          },
+          {
+            "title": "VueJS",
+            "since": 2017
+          },
+          {
+            "title": "React",
+            "since": 2024
+          },
+          {
+            "title": "TypeScript",
+            "since": 2024
+          }
+        ]
+      },
+      "hobbies": {
+        "title": "hobbies",
+        "items": [
+          "art",
+          "TRAVELING",
+          "PHOTOGRAPHY",
+          "SPORTS",
+          "MOVIE"
+        ]
+      },
+      "contacts": {
+        "location": "Odessa, Ukraine",
+        "email": "eugenefilter@gmail.com",
+        "phone": "+38(068)-813-38-61",
+        "telegram": "+38(068)-813-38-61",
+        "whatsapp": "+38(068)-813-38-61"
+      }
+    },
+    "ru": {
+      "about": {
+        "title": "Обо мне",
+        "text": "Имея десятилетний профессиональный опыт, я специализируюсь на создании надежных веб-приложений с использованием PHP, JavaScript и Vue.js, постоянно уделяя внимание созданию масштабируемого и поддерживаемого кода. Моей карьерой способствовала моя страсть к оптимизации веб-функций и улучшению пользовательского опыта, что привело к значительному улучшению производительности приложений и вовлеченности пользователей для множества известных клиентов. У меня есть успешный опыт работы в ведущих командах разработчиков на протяжении всего жизненного цикла программного обеспечения, обеспечивая соответствие проектов строгим срокам и при этом придерживаясь лучших практик в стандартах кодирования."
+      },
+      "links": {
+        "title": "Веб-сайт и социальные ссылки",
+        "links": [
+          {
+            "title": "Linkedin",
+            "link": "https://www.linkedin.com/in/yevhen-oleinykov-1825982b6/",
+            "linkName": "linkedin.com/yevhen-oleinykov"
+          }
+        ]
+      },
+      "languages": {
+        "title": "языки",
+        "items": [
+          "Английский",
+          "Русский"
+        ]
+      },
+      "additional": {
+        "title": "дополнительные детали",
+        "text": ""
+      },
+      "workExperience": {
+        "title": "опыт работы",
+        "items": [
+          {
+            "organization": "GLOWPIXEL ltd",
+            "city": "Нью-Йорк",
+            "years": "2014 - 2015",
+            "description": "Старший графический дизайнер Графический дизайнер, ориентированный на клиента, с большим опытом работы в высокопроизводительной команде, способной достигать или превосходить поставленные цели. Целеустремленный и трудолюбивый, с внутренним стремлением добиться совершенства."
+          },
+          {
+            "organization": "LOREM IPSUM",
+            "city": "Нью-Йорк",
+            "years": "2014 - 2015",
+            "description": "Графический дизайнер Ориентированный на клиента графический дизайнер с богатым опытом работы в высокопроизводительной команде, способной достигать поставленных целей или превосходить их. Целеустремленный и трудолюбивый, с внутренним стремлением добиться совершенства."
+          }
+        ]
+      },
+      "education": {
+        "title": "образование",
+        "items": [
+          {
+            "organization": "GLOWPIXEL LTD",
+            "city": "Нью-Йорк",
+            "years": "2014 - 2015",
+            "description": "Старший графический дизайнер Графический дизайнер, ориентированный на клиента, с большим опытом работы в высокопроизводительной команде, способной достигать или превосходить поставленные цели. Целеустремленный и трудолюбивый, с внутренним стремлением добиться совершенства."
+          },
+          {
+            "organization": "LOREM IPSUM",
+            "city": "Нью-Йорк",
+            "years": "2014 - 2015",
+            "description": "Графический дизайнер Ориентированный на клиента графический дизайнер с богатым опытом работы в высокопроизводительной команде, способной достигать поставленных целей или превосходить их. Целеустремленный и трудолюбивый, с внутренним стремлением добиться совершенства."
+          },
+          {
+            "organization": "PIXELATE AGENCY",
+            "city": "Нью-Джерси",
+            "years": "2013 - 2014",
+            "description": "Графический и веб-дизайнер | Графический дизайнер, ориентированный на клиента, с большим опытом работы в качестве ведущей высокопроизводительной команды, способной достигать или превосходить поставленные цели. Целеустремленный и трудолюбивый, с внутренним стремлением добиться совершенства."
+          }
+        ]
+      },
+      "skills": {
+        "title": "навыки",
+        "items": [
+          {
+            "title": "PHP",
+            "since": 2016
+          },
+          {
+            "title": "Laravel",
+            "since": 2018
+          },
+          {
+            "title": "JavaScript",
+            "since": 2016
+          },
+          {
+            "title": "VueJS",
+            "since": 2017
+          },
+          {
+            "title": "React",
+            "since": 2024
+          },
+          {
+            "title": "TypeScript",
+            "since": 2024
+          }
+        ]
+      },
+      "hobbies": {
+        "title": "увлечения",
+        "items": [
+          "искусство",
+          "ПУТЕШЕСТВИЯ",
+          "ФОТОГРАФИЯ",
+          "СПОРТА",
+          "ФИЛЬМ"
+        ]
+      },
+      "contacts": {
+        "location": "Одесса, Украина",
+        "email": "eugenefilter@gmail.com",
+        "phone": "+38(068)-813-38-61",
+        "telegram": "+38(068)-813-38-61",
+        "whatsapp": "+38(068)-813-38-61"
+      }
+    }
+  }
+}

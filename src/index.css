@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Roboto-medium';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(/fonts/Roboto-medium.ttf) format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Roboto-thin';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(/fonts/Roboto-thin.ttf) format('ttf');
+  }
+}
+
+.divider::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 10px;
+  height: 10px;
+  background-color: #DFDFDF;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (min-width: 768px) {
+  .divider::after {
+    left: auto;
+    right: -11px;
+  }
+}
+
+:root {
+  --progress-bar-background: #c6c4c4;
+  --progress-value-background: #FF7F50;
+  /* --progress-value-background: #30D5C8; */
+  /* --progress-value-background: #007BFF; */
+  /* --progress-value-background: #FFDB58; */
+}
+
+progress {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  width: 100%;
+  height: 8px;
+  border: none;
+}
+
+progress::-webkit-progress-bar {
+  background-color: var(--progress-bar-background);
+}
+
+progress[value] {
+  background-color: var(--progress-bar-background);
+}
+
+progress::-webkit-progress-value {
+  background-color: var(--progress-value-background);
+}
+
+progress::-moz-progress-bar {
+  background-color: var(--progress-value-background);
+}
+
+
+progress::-ms-fill {
+  background-color: var(--progress-value-background);
+  border: none;
+}
